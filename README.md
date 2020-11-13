@@ -78,3 +78,4 @@ My own comments
 2. `npm install` to install the tools for the project.
 3. Create `src/features/posts/postsSlice.js` file and folders.
 4. Do the rest of the tutorial `https://redux.js.org/tutorials/essentials/part-3-data-flow`
+5. Do the rest of the tutorial `https://redux.js.org/tutorials/essentials/part-4-using-data`
