@@ -68,3 +68,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+---------------------------------------------
+My own comments
+---------------------------------------------
+
+1. Clone the basis posts-app with : `git clone https://github.com/reduxjs/redux-essentials-example-app`.
+2. `npm install` to install the tools for the project.
+3. Create `src/features/posts/postsSlice.js` file and folders.
+4. 
