@@ -77,4 +77,4 @@ My own comments
 1. Clone the basis posts-app with : `git clone https://github.com/reduxjs/redux-essentials-example-app`.
 2. `npm install` to install the tools for the project.
 3. Create `src/features/posts/postsSlice.js` file and folders.
-4. 
+4. Do the rest of the tutorial `https://redux.js.org/tutorials/essentials/part-3-data-flow`
